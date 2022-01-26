@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "100%" src="https://github.com/David-fang0621/david-fang0621/blob/main/images/bg.jpg" alt="cover" />
-</div>
-
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
 ### Through 6 years of WEB and MOBILE development
