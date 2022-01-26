@@ -8,10 +8,10 @@
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me **[Join on Skype](https://join.skype.com/invite/CFXidKmbeHaJ)** and **<a href="mailto:h.j.dream0428@gmail.com">Send Mail</a>** if you need my help.
+- 📫 Contact me **[Join on Skype](https://join.skype.com/invite/vvzkvgxuRb21)** and **<a href="mailto:fanghuateng0621@gmail.com">Send Mail</a>** if you need my help.
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=david-fang0621&column=7&theme=onedark"/>
 </p>
 
 
