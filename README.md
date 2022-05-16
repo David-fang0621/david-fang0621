@@ -10,8 +10,10 @@ Passionate and skilled Software Enginner offering 7 years of relevant experience
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/vvzkvgxuRb21)** and **<a href="mailto:fanghuateng0621@gmail.com">Send Mail</a>** if you need my help.
 
-### My Products
-<a href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/360-panorama.png" width="45%"/></a>
+### My Products (click image for more details)
+<a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/360-panorama.png" width="45%"/></a>
+
+<a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/360-panorama.png" width="45%"/></a>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=david-fang0621&column=7&theme=onedark"/>
