@@ -13,6 +13,7 @@ Passionate and skilled Software Enginner offering 7 years of relevant experience
 ### MY PRODUCTS (click image for more details)
 | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/360-panorama.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
 | ----- | ----- |
+| <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/pyramid.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=david-fang0621&column=7&theme=onedark"/>
