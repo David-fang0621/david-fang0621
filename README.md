@@ -24,3 +24,20 @@ Passionate and skilled Software Enginner offering 7 years of relevant experience
 | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/360-panorama.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
 | ----- | ----- |
 | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/pyramid.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
+
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+```text
+Markdown       13 hrs 14 mins  🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.26 %
+TypeScript     11 hrs 35 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.48 %
+C++            4 hrs 9 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.50 %
+Python         2 hrs 41 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.14 %
+unknown        1 hrs 50 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.18 %
+Shell          1 hrs 42 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.90 %
+```
+
+<!--END_SECTION:waka-->
+
+---
