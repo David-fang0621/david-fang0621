@@ -14,17 +14,3 @@ Passionate and skilled Software Enginner offering 7 years of relevant experience
 | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/360-panorama.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
 | ----- | ----- |
 | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/pyramid.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=david-fang0621&column=7&theme=onedark"/>
-</p>
-
-
-| ![Huateng's github stats](https://github-readme-stats.vercel.app/api?username=david-fang0621&show_icons=true&theme=tokyonight) | ![Huateng's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-fang0621&theme=tokyonight) |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-fang0621&theme=tokyonight"/> | ![Github Stars](https://github-readme-stats.vercel.app/api?username=david-fang0621&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-<p align="centre">
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=david-fang0621&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
