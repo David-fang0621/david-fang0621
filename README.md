@@ -29,7 +29,7 @@ Passionate and skilled Software Enginner offering 7 years of relevant experience
 | ----- | ----- |
 | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/pyramid.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+### WEEKLY ANALYSIS
 
 <!--START_SECTION:waka-->
 
