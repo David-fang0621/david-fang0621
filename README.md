@@ -24,11 +24,6 @@ Passionate and skilled Software Enginner offering 7 years of relevant experience
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
-### MY PRODUCTS (click image for more details)
-| <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/360-panorama.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
-| ----- | ----- |
-| <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/pyramid.png"/></a> | <a target="_blank" href="https://david-fang0621.github.io/3d-panoramic-360-degree-rotation/"><img src="images/texture.png"/></a> |
-
 ### WEEKLY ANALYSIS
 
 <!--START_SECTION:waka-->
