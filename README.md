@@ -4,7 +4,7 @@
 Passionate and skilled Software Enginner offering 7 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, Always growing up with a forward-moving company.
 
 ```javascript
-const thai = {
+const david = {
   pronouns: "he" | "him",
   language: [PHP, Javascript, Python, Typescript, HTML, CSS],
   tools: [React, Redux, Storybook, Styled-Components, Jest, Mocha, React Native, Node, Laravel, Django, Flask, Docker, Git],
